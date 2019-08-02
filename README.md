@@ -1,5 +1,5 @@
 # CipherKalk
-This is my cipher calculator that I create with Qt Creator software
+This is my cipher calculator that cipher phrases with substitution, Vigenère and Vernam algorithm.
 
 This program was created with Qt Creator v5.5.1 software and MinGW 32-bit compiler.
 Only for Windows!!
